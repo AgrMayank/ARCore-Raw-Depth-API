@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.ar.core.arfoundation.extensions": "file:A:/Downloads/arcore-unity-extensions-1.24.0.tgz",
+    "com.google.ar.core.arfoundation.extensions": "file:../Assets/arcore-unity-extensions-1.24.0.tgz",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.device-simulator": "2.2.4-preview",
     "com.unity.ide.rider": "1.2.1",
